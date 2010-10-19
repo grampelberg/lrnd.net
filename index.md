@@ -6,7 +6,7 @@ layout: default
 
 ## You have reached
 
-# rsnd.org
+# lrnd.net
 
 ## Which belongs to
 
