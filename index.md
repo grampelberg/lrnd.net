@@ -1,5 +1,5 @@
 ---
-title: rsnd.org
+title: lrnd.net
 layout: default
 ---
 
